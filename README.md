@@ -33,7 +33,7 @@ Full implementation of **Field Oriented Control (FOC)**.
 * **Status:** Achieved `MOT: PP check: OK!`, confirming perfect synchronization between the 50 pole pairs and the encoder.
 * **Control Architecture:** Cascaded PID loops (Position -> Velocity -> Torque/Voltage).
 
-
+<img width="1551" height="665" alt="Screenshot from 2026-02-14 21-08-50" src="https://github.com/user-attachments/assets/5914ba02-0fbd-4f44-b1ab-da4bfd0223cc" />
 
 ---
 
@@ -58,3 +58,8 @@ The firmware includes a Serial Interface (115200 baud) for real-time interaction
 * **Status:** Send `M` alone to receive a full diagnostic report of the motor state.
 
 ---
+![WhatsApp Image 2026-02-14 at 20 48 03](https://github.com/user-attachments/assets/22f54570-c5b8-4f28-a5a7-2a411f2efe16)
+![WhatsApp Image 2026-02-14 at 20 46 35(1)](https://github.com/user-attachments/assets/3c381d86-4196-4aaf-b812-dfef7b4955d6)
+![WhatsApp Image 2026-02-14 at 20 46 35(2)](https://github.com/user-attachments/assets/57aa019a-e623-47f1-939f-50ce76a67d7b)
+
+
